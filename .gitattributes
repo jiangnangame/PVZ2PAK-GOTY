@@ -1,0 +1,2 @@
+resource.goty filter=lfs diff=lfs merge=lfs -text
+*.goty filter=lfs diff=lfs merge=lfs -text
