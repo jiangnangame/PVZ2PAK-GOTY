@@ -12,4 +12,5 @@ Different from the old, a new [Costume Changer](https://github.com/jiangnangame/
 We developed PVZ2PAK:GOTY only for learning purposes. You must not use the program for commercial purposes, otherwise the legal issues should be resolved by yourself.
 
 Please support [Genuine PVZ](https://www.ea.com/games/plants-vs-zombies) by Popcap Games.
-</
+<br>
+
